@@ -131,3 +131,5 @@ dmypy.json
 # Developer tooling preferences
 .idea/
 .vscode/
+
+# Ignore keys
