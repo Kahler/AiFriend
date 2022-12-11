@@ -133,3 +133,4 @@ dmypy.json
 .vscode/
 
 # Ignore keys
+openaikey
